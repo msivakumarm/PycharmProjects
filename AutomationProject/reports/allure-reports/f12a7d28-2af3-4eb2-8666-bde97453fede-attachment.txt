@@ -1,0 +1,6 @@
+Assertion error occurred
+assert 'OrangeHRM' == 'abc'
+  - OrangeHRM
+  + abc
+This block will always execute |Close DB
+Test Completed

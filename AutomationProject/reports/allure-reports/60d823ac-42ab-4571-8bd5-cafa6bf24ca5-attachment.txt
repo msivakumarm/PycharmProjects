@@ -1,0 +1,7 @@
+Assertion error occurred
+assert 'OrangeHRM' == 'abc'
+  - OrangeHRM
+  + abc
+C:\Users\SIVA\PycharmProjects\screenshots\test_logout_11-08-2019_16-32-08.png
+This block will always execute
+Test Completed
